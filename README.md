@@ -1,6 +1,6 @@
 # Google Software Product Sprint
 
-This repo contains the projects you'll work on throughout SPS.
+This repo contains Ebenezer's portfolio and the projects I worked on throughout SPS.
 
 To get started:
 
